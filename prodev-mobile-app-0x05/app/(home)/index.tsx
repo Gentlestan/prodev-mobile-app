@@ -11,6 +11,7 @@ import {
 } from "react-native";
 import PropertyListing from "../components/PropertyListing";
 
+
 const Home = () => {
   return (
     <View style={styles.container}>
